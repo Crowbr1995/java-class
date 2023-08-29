@@ -1,2 +1,2 @@
 # sre-class
-Repository for Java course
+Repository for SRE course
